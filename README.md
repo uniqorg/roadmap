@@ -1,6 +1,6 @@
 # Postman as code public roadmap
 
-✨🦄 View the [official pmac public product roadmap](https://github.com/orgs/postman-as-code/projects/4247)[^1]
+✨🦄 View the [official pmac public product roadmap](https://github.com/orgs/postman-as-code/projects/1)
 
 The product roadmap is where you can learn about what features we're working on, what stage they're in, and when we expect to bring them to you.
 
